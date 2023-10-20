@@ -283,7 +283,7 @@ print (-math.inf)
 ```
 #
 
-# NAN
+## NAN
 
 The math.nan constant returns a floating-point nan (Not a Number) value. This value is not a legal number. The nan constant is equivalent to float(“nan”).
 
