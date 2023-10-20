@@ -51,7 +51,9 @@ print(m / n)
 ```
 #
 
-## The % operator is the modulo, which returns the remainder rather than the quotient after division. This is useful for finding numbers that are multiples of the same number, for example.
+## Modulo
+
+The % operator is the modulo, which returns the remainder rather than the quotient after division. This is useful for finding numbers that are multiples of the same number, for example.
 ```
 o = 85
 p = 15
@@ -83,7 +85,7 @@ a*b
 ```
 #
 
-PPerimeter of a Rectangle
+## Perimeter of a Rectangle
 ```
 2*(a +b)
 ```
@@ -188,7 +190,7 @@ print(str)
 ```
 #
 
-## (Task 1) takes a number and squares it. (Task 2) take the square root of the result you get from the task(1)
+(Task 1) takes a number and squares it. (Task 2) take the square root of the result you get from the task(1)
 
 ```
 #(task 1)take a number and square it
