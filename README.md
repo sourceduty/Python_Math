@@ -202,7 +202,6 @@ import math #math library
 z = math.sqrt(y) #using sqrt()
 print(z)
 ```
-< br>
 
 Use a library called math, which is a built-in python library to do quick mathematical operations. The function math.sqrt takes the square root of the result y that we got from (task 1).
 
