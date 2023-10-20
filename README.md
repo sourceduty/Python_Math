@@ -85,7 +85,7 @@ a*b
 ```
 #
 
-## Perimeter of a Rectangle
+Perimeter of a Rectangle
 ```
 2*(a +b)
 ```
