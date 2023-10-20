@@ -94,8 +94,8 @@ a = 2
 b = 3
 area = a*b
 perimeter = 2 * (a+b)
-print(area) #printing the area
-print(perimeter)#printing peri
+print(area) 
+print(perimeter)
 ```
 #
 
