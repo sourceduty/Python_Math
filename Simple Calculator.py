@@ -64,7 +64,6 @@ while True:
  
     # Menu exit option        
     if choice in ('5'):
-        print(exit)
         raise SystemExit    
             
         break                
