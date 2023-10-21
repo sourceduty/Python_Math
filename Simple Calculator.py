@@ -27,13 +27,13 @@ def power(x, y):
     return x ** y
 
 # Menu 
-print("SOURCEDUTY CALCULATOR")
+print ("SOURCEDUTY CALCULATOR")
 print ("----------------------")
-print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
-print("6.Exit")
+print ("1.Add")
+print ("2.Subtract")
+print ("3.Multiply")
+print ("4.Divide")
+print ("6.Exit")
 print ("----------------------")
 
 while True:
@@ -47,23 +47,23 @@ while True:
         print ("----------------------")
 
         if choice == '1':
-            print(num1, "+", num2, "=", add(num1, num2))
+            print (num1, "+", num2, "=", add(num1, num2))
             print ("----------------------")
         elif choice == '2':
-            print(num1, "-", num2, "=", subtract(num1, num2))
+            print (num1, "-", num2, "=", subtract(num1, num2))
             print ("----------------------")
         elif choice == '3':
-            print(num1, "*", num2, "=", multiply(num1, num2))
+            print (num1, "*", num2, "=", multiply(num1, num2))
             print ("----------------------")
         elif choice == '4':
-            print(num1, "/", num2, "=", divide(num1, num2))
+            print (num1, "/", num2, "=", divide(num1, num2))
             print ("----------------------")    
         
     else:
-        print("Invalid input")
+        print ("Invalid input")
  
     # Menu exit option        
-    if choice in ('5'):
+    if choice in ('6'):
         raise SystemExit    
             
         break                
